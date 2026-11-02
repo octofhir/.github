@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/octofhir/.github/main/profile/banner.png" alt="OctoFHIR: FHIR infrastructure, open source and in Rust" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://octofhir.com"><b>octofhir.com</b></a> ·
+  <a href="https://fhir.octofhir.com/ui/">Demo server</a> ·
+  <a href="https://octofhir.github.io/server-rs/">Documentation</a>
+</p>
+
 **OctoFHIR builds open-source FHIR infrastructure in Rust.** Our FHIR server on PostgreSQL has a
 keyboard-first web console for REST, SQL, GraphQL, FHIRPath and CQL. The server is built on our own
 engines for FHIRPath, SQL on FHIR, CQL, UCUM and FHIRSchema validation. Next to them we build tools
